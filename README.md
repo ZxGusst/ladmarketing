@@ -16,4 +16,4 @@ Desenvolvimento no Atomicat
 O Atomicat, uma plataforma No Code, foi escolhido para implementar o site da LAD Marketing devido à sua facilidade de uso e rapidez de desenvolvimento. Esta plataforma permitiu a criação e hospedagem do site sem a necessidade de escrever código.
 
 <h1>Acesso ao Site</h1>
-O site da LAD Marketing está disponível no seguinte endereço: LAD Marketing
+O site da LAD Marketing está disponível no seguinte endereço: <a href="https://ladmarketing.site" target="_blank">LAD Marketing</a>
